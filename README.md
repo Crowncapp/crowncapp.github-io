@@ -1,1 +1,1 @@
-# deneme
+# Bu bir denemedir.
